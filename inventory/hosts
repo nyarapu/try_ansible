@@ -1,3 +1,6 @@
+[localhost]
+192.168.1.201 ansible_connection=local
+
 [winsvr]
 192.168.1.202
 ;192.168.1.204
